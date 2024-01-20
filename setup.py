@@ -12,7 +12,7 @@ setup(name='py1090',
       url='http://www.jonaslieb.com/',
       packages=['py1090'],
       requires=[],
-      license=['Apache License, Version 2.0'],
+      license='Apache License, Version 2.0',
       classifiers=[
       	'Development Status :: 3 - Alpha',
       	'Intended Audience :: Education',
